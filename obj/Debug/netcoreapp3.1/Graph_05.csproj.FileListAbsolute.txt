@@ -1,0 +1,13 @@
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\bin\Debug\netcoreapp3.1\Graph_05.exe
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\bin\Debug\netcoreapp3.1\Graph_05.deps.json
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\bin\Debug\netcoreapp3.1\Graph_05.runtimeconfig.json
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\bin\Debug\netcoreapp3.1\Graph_05.runtimeconfig.dev.json
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\bin\Debug\netcoreapp3.1\Graph_05.dll
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\bin\Debug\netcoreapp3.1\Graph_05.pdb
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\obj\Debug\netcoreapp3.1\Graph_05.csprojAssemblyReference.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\obj\Debug\netcoreapp3.1\Graph_05.AssemblyInfoInputs.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\obj\Debug\netcoreapp3.1\Graph_05.AssemblyInfo.cs
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\obj\Debug\netcoreapp3.1\Graph_05.csproj.CoreCompileInputs.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\obj\Debug\netcoreapp3.1\Graph_05.dll
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\obj\Debug\netcoreapp3.1\Graph_05.pdb
+C:\Users\ДИМОООООООН\source\repos\TMP\Graph_05\obj\Debug\netcoreapp3.1\Graph_05.genruntimeconfig.cache

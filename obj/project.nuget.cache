@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrkMLhTps0577AfEL+lsnlwSiINtzbbjFg2jHUNMcPn/30Jp6pSWhgrF3DtyJY+v8xdGjMbaYrTW1Y9xlBxnqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ДИМОООООООН\\source\\repos\\TMP\\Graph_05\\Graph_05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ДИМОООООООН\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ДИМОООООООН\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
